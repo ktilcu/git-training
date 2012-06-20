@@ -120,11 +120,11 @@ Our *repository* was started by `git clone` this means we did not create it and 
 
 **Origin/master** is a pointer to that history.  
 
-####Back To The Roots
+#####Origin/master
 
 **Origin/master** is merely a pointer. It points to a time in our *commit* history that indicates what *commit* the origin repository (e.g. mine on github) is currently on.
 
-In our case it shows that we have 1 more commit in our local repository than mine does on github. This is because you implemented the Huge New Feature in your repository but I haven't in mine.
+In our case it shows that you have 1 more commit in your local repository than mine does on github. This is because you implemented the Huge New Feature in your repository but I haven't in mine.
 
 ###YAY!
 
